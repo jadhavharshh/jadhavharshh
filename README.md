@@ -15,8 +15,7 @@ Feel free to explore my repositories and connect with me!
 
 ## 📬 Let's Connect
 
-- 🌐 **[Portfolio Website](https://theharshjadhav.com)**
-- 💼 **[LinkedIn](https://linkedin.com/in/theharshjadhav)**
+- 💼 **[LinkedIn](https://linkedin.com/in/jadhavharsh)**
 - 🐦 **[Twitter](https://twitter.com/theharshjadhav)**
 - 📧 **[Email Me](mailto:harshjadhavconnect@gmail.com)**
 
