@@ -5,7 +5,7 @@
 
 I'm an engineering student passionate about building and learning new things. Here are a few highlights:
 
-- 🌱 Exploring React, MERN stack, and AI.
+- 🌱 Balancing @DSA and Development.
 - 🚀 Automating workflows and solving problems with code.
 - 💻 Open to freelance and collaborative opportunities.
 
