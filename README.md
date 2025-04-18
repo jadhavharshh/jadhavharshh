@@ -1,7 +1,7 @@
 
 # Welcome! 👋
 
-![GitHub Banner](https://pbs.twimg.com/profile_banners/1665357912779411456/1741110972/600x200)
+![GitHub Banner](https://i.pinimg.com/736x/2c/1e/eb/2c1eebfe2c66c80b2829023efa30fa4c.jpg)
 
 I'm an engineering student passionate about building and learning new things. Here are a few highlights:
 
